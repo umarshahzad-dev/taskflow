@@ -25,21 +25,6 @@ Manage tasks with priorities, due dates, tags, search, undo, colored output, an 
 - **Interactive Shell** – REPL mode with live command processing.
 - **Full Test Suite** – 23+ unit tests covering models and repository.
 
-## 🧠 Dart Concepts Covered
-
-This project was built as a **capstone** of the Dart language. It touches **every phase** of Dart:
-
-| Phase | Topics |
-|-------|--------|
-| 1 | Variables, control flow, modern switch, functions, closures, tear‑offs |
-| 2 | Classes, all constructor types, inheritance, mixins, enhanced enums |
-| 3 | Null safety, generics, records, patterns, class modifiers, extensions |
-| 4 | Collections, spread, collection‑if/for, functional methods (`map`, `where`, `fold`, etc.) |
-| 5 | Futures, async/await, streams, broadcast controllers, `async*` / `sync*` |
-| 6 | Exception vs Error, isolates, WeakReference, Finalizer, symbols |
-| 7 | File I/O, JSON, HTTP, FFI (reference), dart2wasm (reference) |
-| 8 | pubspec, analysis options, build_runner, testing, mocking |
-
 ---
 
 ## 📋 Requirements
